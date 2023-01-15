@@ -1,0 +1,75 @@
+div{
+
+    background-color: yellowgreen;
+    padding: 10px;
+    margin: 10px;
+}
+.solid{
+    border: 10px solid red; 
+} 
+.dashed{
+    border: 10px dashed  red; 
+    outline-style: dotted;
+    outline-width: 10px;
+    outline-color: blue;
+    margin: 20px 40px;
+} 
+} 
+.dotted{
+    border: 10px dotted red; 
+    outline-style: dotted;
+    outline-width: 10px;
+    outline-color: blue;
+} 
+
+.double{
+    border: 10px double red; 
+} 
+.grove{
+    border: 10px groove red; 
+} 
+.ridge{
+    border: 10px ridge red; 
+} 
+.solid{
+    border: 10px solid red;
+    outline: 10px solid blue; 
+} 
+.inset{
+    border: 10px inset red; 
+} 
+.outsed{
+    border: 10px outset red; 
+} 
+
+.tek-sinir{
+    border-width: 10px;
+    border-color: rgb(185, 36, 36);
+border-style: solid;
+}
+.cok-sinir{
+    border-right-width: 11px;
+    border-right-color: rgb(52, 20, 196);
+border-right-style: groove;
+}
+.cok-sinir{
+    border-bottom-width: 10px;
+    border-bottom: rgb(20, 196, 20);
+border-bottom-style: double;
+}
+.cok-sinir{
+    border-top-width: 10px;
+    border-top-color: rgb(20, 146, 196);
+border-top-style: outset;
+}
+
+.dashed ,.dotted, {
+    background-color: aqua;
+}
+.ebeveyn{
+
+    background-color: chocolate;
+}
+.ilk-cocuk, .orta-cocuk {
+    display: inline;
+}
