@@ -14,7 +14,7 @@ div{
     outline-color: blue;
     margin: 20px 40px;
 } 
-} 
+
 .dotted{
     border: 10px dotted red; 
     outline-style: dotted;
@@ -63,10 +63,10 @@ border-bottom-style: double;
 border-top-style: outset;
 }
 
-.dashed ,.dotted, {
+.dashed ,.dotted {
     background-color: aqua;
-}
-.ebeveyn{
+ }
+.ebeveyn {
 
     background-color: chocolate;
 }
