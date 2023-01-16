@@ -3,7 +3,7 @@
 ogrenciler ve ogretmenlerin kullandigi teknolojidir
 
 <h1>tesekkurler </h1>
-
+<p>hosgeldin</p>
 
 <h2>video goruntusu</h2>
 
